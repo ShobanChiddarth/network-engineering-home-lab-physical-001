@@ -1,6 +1,6 @@
 # Physical Home LAN and Linux Server Setup
 
-This repository contains a detailed PDF documenting the design and setup of my **physical home lab**, where I built and operated a real home LAN with a dedicated Linux server.
+This repository contains [a detailed PDF](./My-Home-LAB-Setup-Detailed-Process.pdf) documenting the design and setup of my **physical home lab**, where I built and operated a real home LAN with a dedicated Linux server.
 
 ## Overview
 
